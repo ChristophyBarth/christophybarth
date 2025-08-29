@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Christophy 👋  
 
-<!--
-**ChristophyBarth/christophybarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Flutter & Kotlin developer⚡| 🌱 Learning more every day  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Currently working on: Awesome Flutter apps  
+- 🌱 Exploring: AI + Mobile integration  
+- 💬 Ask me about: Flutter, Kotlin, cross-platform dev  
+- ⚡ Fun fact: I debug with coffee ☕  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
+
+### 📊 GitHub Stats
+![Christophy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=christophybarth&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christophybarth&layout=compact&theme=tokyonight)  
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
