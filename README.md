@@ -1,7 +1,7 @@
 # Hi there, I'm Christophy! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+%26+Kotlin+Developer;Mobile+App+Enthusiast;AI+%2B+Mobile+Explorer;Coffee-Driven+Debugger&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Kotlin+%26+Flutter+Developer;Android+Native+Expert;Cross-Platform+Enthusiast;AI+%2B+Mobile+Explorer;Coffee-Driven+Debugger&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Flutter & Kotlin developer** who loves crafting beautiful, performant mobile applications. I believe in writing clean code, following best practices, and continuously learning new technologies to stay ahead in the ever-evolving mobile development landscape.
+I'm a passionate **Kotlin & Flutter developer** with deep expertise in Android native development and cross-platform solutions. I love crafting beautiful, performant mobile applications using Kotlin-first approaches and extending reach with Flutter when needed.
 
 - 🔭 **Currently working on:** Awesome Flutter apps that make a difference
 - 🌱 **Exploring:** AI + Mobile integration and emerging technologies
-- 💬 **Ask me about:** Flutter, Kotlin, cross-platform development, mobile UI/UX
+- 💬 **Ask me about:** Kotlin, Android development, Flutter, cross-platform solutionselopment, mobile UI/UX
 - ⚡ **Fun fact:** I debug with coffee ☕ and believe every bug is just an undiscovered feature
 - 🎯 **Goal:** Contributing to open source and building apps that solve real problems
 
@@ -26,15 +26,14 @@ I'm a passionate **Flutter & Kotlin developer** who loves crafting beautiful, pe
 ## 🛠️ Tech Stack & Tools
 
 ### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### **Backend & Database**
+### **Backend & API Integration**
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
 
 ### **Development Tools**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -44,11 +43,14 @@ I'm a passionate **Flutter & Kotlin developer** who loves crafting beautiful, pe
 
 ### **Design & Prototyping**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ---
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christophybarth&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christophybarth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -56,19 +58,7 @@ I'm a passionate **Flutter & Kotlin developer** who loves crafting beautiful, pe
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christophybarth&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=christophybarth&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=73daca&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christophybarth&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -79,18 +69,10 @@ I'm a passionate **Flutter & Kotlin developer** who loves crafting beautiful, pe
 > *Coming soon! Currently working on some exciting Flutter projects that I'll be showcasing here.*
 
 **What to expect:**
-- Cross-platform mobile applications
+- Native Android applications with Kotlin
+- Cross-platform solutions with Flutter
 - AI-integrated mobile solutions
-- Open-source Flutter packages
-- Kotlin-based Android utilities
-
----
-
-## 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-*This section will be automatically updated with recent activity*
-<!--END_SECTION:activity-->
+- Open-source Kotlin libraries
 
 ---
 
@@ -98,8 +80,8 @@ I'm a passionate **Flutter & Kotlin developer** who loves crafting beautiful, pe
 
 I'm always interested in collaborating on exciting projects, especially those involving:
 
-- **Flutter Development:** Cross-platform mobile applications
-- **Kotlin Projects:** Native Android development
+- **Kotlin Development:** Native Android applications and libraries
+- **Flutter Projects:** Cross-platform mobile solutions
 - **Open Source:** Contributing to the developer community
 - **AI Integration:** Bringing AI capabilities to mobile apps
 - **UI/UX Innovation:** Creating beautiful, user-friendly interfaces
@@ -110,10 +92,10 @@ I'm always interested in collaborating on exciting projects, especially those in
 
 <div align="center">
   
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_ID)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
@@ -126,13 +108,6 @@ Whether you want to discuss a project, share ideas about mobile development, or 
 - 💼 **Professional inquiries:** [your.email@example.com](mailto:your.email@example.com)
 - 🤝 **Collaboration:** Always open to interesting projects
 - 💬 **General chat:** Feel free to reach out on any platform
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-*Blog posts will be automatically updated here*
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
