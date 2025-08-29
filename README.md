@@ -1,23 +1,35 @@
 # Hi there, I'm Christophy! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Kotlin+%26+Flutter+Developer;Android+Native+Expert;Cross-Platform+Enthusiast;AI+%2B+Mobile+Explorer;Coffee-Driven+Debugger&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  
+  <!-- Enhanced Typing Animation with Custom Styling -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Kotlin+%26+Flutter+Developer;📱+Android+Native+Expert;🌐+Cross-Platform+Enthusiast;🤖+AI+%2B+Mobile+Explorer;☕+Coffee-Driven+Debugger;&font=Fira%20Code&center=true&width=600&height=80&duration=3000&pause=1000&size=28&color=58a6ff&background=0d1117&vCenter=true&multiline=false" alt="Typing SVG">
+  
+  <!-- Enhanced Profile Stats Row -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=christophybarth&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/christophybarth?label=Followers&style=for-the-badge&color=blue&labelColor=000000" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/Focus-Mobile%20Development-brightgreen?style=for-the-badge&labelColor=000000" alt="Focus" />
+  </p>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=christophybarth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/christophybarth?label=Followers&style=social" alt="GitHub Followers" />
-</p>
 
 ---
 
 ## 🚀 About Me
 
+<div align="left">
+ <img align="left" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+ 
+ <div style="margin-left: 420px;">
+   
 I'm a passionate **Kotlin & Flutter developer** with deep expertise in Android native development and cross-platform solutions. I love crafting beautiful, performant mobile applications using Kotlin-first approaches and extending reach with Flutter when needed.
+ </div>
+</div>
+<br clear="left"/>
 
 - 🔭 **Currently working on:** Awesome Flutter apps that make a difference
 - 🌱 **Exploring:** AI + Mobile integration and emerging technologies
-- 💬 **Ask me about:** Kotlin, Android development, Flutter, cross-platform solutionselopment, mobile UI/UX
+- 💬 **Ask me about:** Kotlin, Android development, Flutter, cross-platform solutions development, mobile UI/UX
 - ⚡ **Fun fact:** I debug with coffee ☕ and believe every bug is just an undiscovered feature
 - 🎯 **Goal:** Contributing to open source and building apps that solve real problems
 
@@ -25,24 +37,34 @@ I'm a passionate **Kotlin & Flutter developer** with deep expertise in Android n
 
 ## 🛠️ Tech Stack & Tools
 
-### **Mobile Development**
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+#### **💎 Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000&border=2"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000"/>
+</p>
 
-### **Backend & API Integration**
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+#### **🔧 Backend & API Integration**
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white&labelColor=000000"/>
+</p>
 
-### **Development Tools**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#### **⚙️ Development Tools**
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+</p>
 
-### **Design & Prototyping**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+#### **🎨 Design & Prototyping**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000"/>
+</p>
+
+</div>
 
 ---
 
@@ -119,11 +141,15 @@ I'm always interested in collaborating on exciting projects, especially those in
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=center" />
-</div>
-
----
-
-<div align="center">
-  <sub>⭐️ From <a href="https://github.com/christophybarth">Christophy</a></sub>
+  
+  <!-- Enhanced Footer with Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=90&descAlign=center&animation=twinkling" />
+  
+  <!-- Animated Thank You Message -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=⭐+Star+my+repos+if+you+find+them+helpful!;💬+Let's+connect+and+collaborate!;🚀+Building+the+future+one+app+at+a+time!&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1500&size=18&color=58a6ff" />
+  
+  <br><br>
+  
+  <sub>⭐️ From <a href="https://github.com/christophybarth">Christophy</a> • Made with 💖 and lots of ☕</sub>
+  
 </div>
