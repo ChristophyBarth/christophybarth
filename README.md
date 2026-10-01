@@ -119,10 +119,10 @@ I'm always interested in collaborating on exciting projects, especially those in
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- [ ] Contribute to a major open-source Kotlin or Flutter library
-- [ ] Build and release an iOS production-ready app
+- [x] Contribute to a major open-source Kotlin or Flutter library
+- [x] Build and release an iOS production-ready app
 - [ ] Speak at a tech conference or meetup
 
 ---
